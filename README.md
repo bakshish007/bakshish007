@@ -1,3 +1,9 @@
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://github.com/bakshish007/bakshish007/assets/59600880/8f5db1ae-c65c-489b-b34a-b08a709141b9" alt=”Banner”>
+
+</p>
+
 <h3 align="center">Hi 👋! My name is Bakshish Singh.</h3>
 
 ###
