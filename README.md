@@ -1,6 +1,6 @@
 <p align=”center”>
 
-<img src="https://github.com/bakshish007/bakshish007/assets/59600880/8f5db1ae-c65c-489b-b34a-b08a709141b9" alt=”Banner”>
+<img src="https://github.com/bakshish007/bakshish007/assets/59600880/8f5db1ae-c65c-489b-b34a-b08a709141b9" max-width=100% alt=”Banner”>
 
 </p>
 
